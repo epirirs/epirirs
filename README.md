@@ -1,4 +1,4 @@
-# Hello, Zigers! 👋
+# Hello, Ziglers! 👋
 
 Welcome to my coding journey! I'm thrilled to have you visit my little corner of the GitHub universe. 🌌
 
